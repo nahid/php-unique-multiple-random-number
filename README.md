@@ -1,4 +1,4 @@
-PHP Unique Multiple Random Number Generato
+PHP Unique Multiple Random Number Generator
 ==============================================
 
 Its a PHP function for generate unique multiple random number as an array. 
