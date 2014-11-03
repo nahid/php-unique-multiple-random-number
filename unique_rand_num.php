@@ -42,8 +42,3 @@ function randUniqueNum($min, $max=null, $limit=null){
    return false;     
        
 }
-
-
-$rand=randUniqueNum(7, 10, 4);
-
-echo $rand[0].' '.$rand[1].' '.$rand[2].' '.$rand[3];
