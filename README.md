@@ -20,6 +20,11 @@ The highest value of random number. If you ignore limit then it will return a si
 ###limit
 Limit of random number. Example: If you set limit 3 then it return 3 unique random number as array
 
+Return Value
+================
+
+A pseudo random value between min (or 0) and max according to limit
+
 >If limit>max-min+1 then it return false
 
 Example
